@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @thefortunembonu
-- 👀 I’m interested in Cybersecurity & AIoT
+- 👀 I’m interested in Cybersecurity
 - 🌱 I’m currently learning Kali & Python Programming Language
 - 💞️ I’m looking to collaborate on Security and software development projects
 - 📫 How to reach me fortunembonu99@gmail.com
